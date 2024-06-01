@@ -25,23 +25,9 @@
 
 * **Full-Stack Development:**
   * Integrating front-end and back-end components for seamless user experiences.
-  * Implementing authentication and authorization mechanisms.
+  * Implementing authentication and authorization mechanisms (JWT, session and passport).
   * Deploying applications on cloud platforms like AWS, Heroku, and Netlify.
 
-* **DevOps & CI/CD:**
-  * Setting up continuous integration and deployment pipelines.
-  * Automating testing and deployment processes with tools like Jenkins, GitHub Actions, and CircleCI.
-  * Monitoring and scaling applications using Docker and Kubernetes.
-
-* **UI/UX Design:**
-  * Crafting intuitive and aesthetically pleasing designs using Figma and Adobe XD.
-  * Conducting user research and usability testing to inform design decisions.
-  * Creating wireframes, mockups, and prototypes.
-
-* **Content Creation:**
-  * Sharing insights and tutorials on web development through blogs and videos.
-  * Creating detailed documentation and guides for projects.
-  * Engaging with the developer community on social media and forums.
 
 ###
 
